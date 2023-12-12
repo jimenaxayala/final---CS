@@ -4,7 +4,7 @@ import random
 
 pygame.init()
 
-
+# setup basics
 WIDTH, HEIGHT = 800, 600
 FPS = 120
 WHITE = (255, 255, 255)
